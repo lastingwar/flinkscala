@@ -4,4 +4,3 @@ hello scala
 how are you
 gan de piao liang
 yes!
-hello hello
