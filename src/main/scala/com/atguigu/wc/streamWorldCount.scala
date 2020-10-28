@@ -22,7 +22,7 @@ object streamWorldCount {
       .keyBy(0)
       .sum(1)
     value.print().setParallelism(1)
-
+    "done"
     env.execute("Socket stream word count")
   }
 }
